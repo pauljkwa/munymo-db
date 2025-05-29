@@ -1,0 +1,17 @@
+# Workspace version: 1.44.26
+python-multipart==0.0.9
+fastapi==0.111.0
+databutton==0.38.34
+ipykernel==6.29.5
+uvicorn[standard]==0.29.0
+openai
+beautifulsoup4
+requests
+stripe
+yfinance
+finnhub-python
+supabase
+PyJWT
+firebase-admin
+pandas
+pytz
